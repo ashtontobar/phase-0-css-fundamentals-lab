@@ -1,3 +1,42 @@
+header {
+  text-align: center;
+}
+
+a:link {
+  padding-left: 10px;
+  padding-right: 10px;
+  color:chartreuse
+}
+
+a:visited {
+  color:darkgreen
+}
+
+section#featured-property  {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#featured-property > p {
+  width: 800px;
+  text-align: center;
+  padding-left: 450px;
+  padding-right: 450px;
+}
+
+/* figure {
+  text-align: center;
+} */
+
+div {
+  text-align: center;
+  background-color: coral;
+  float: left;
+  width: 25%;
+}
+
+
 body {
   width: 100%;
   height: 100%;
